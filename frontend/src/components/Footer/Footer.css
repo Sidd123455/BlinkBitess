@@ -16,7 +16,7 @@
 }
 .footer-content img{
     width: 50%;
-    filter: brightness(0) saturate(100%);
+    filter: brightness(0) invert(1);
 }
 .footer-content-left , .footer-content-center , .footer-content-right {
     display: flex;
